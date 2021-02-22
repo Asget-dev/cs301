@@ -1,0 +1,28 @@
+                        Answer for written questions
+
+•	What happens when an assignment is performed without using let keyword in strict mode? 
+    o	Since we are using “use strict” we have to use let keyword unless it cause an error that variable name is not defined.  
+•	List 5 reserved keywords in JavaScript. 
+        o	Let
+        o	Function
+        o	Return
+        o	Class
+        o	const
+•	How is a computer program similar/ different then an algorithm? 
+    o	There different are Algorithm is a sequence of instruction to achieve a specific task. It is just a step-by-step process. And computer program is an algorithm written using a language that the machine understands.
+    o	There similarity is the instruction in a computer program are like the steps in algorithm.
+•	Write at least two algorithms you perform on your daily life, with at least one algorithm that can be converted to computer program.
+    o	Algorithm to charge phone.
+        	Check your phone.  
+        	If battery percentage level is low
+            •	Plug the charger.
+        	If the battery level is normal.
+            •	Continue using your phone.
+    o	Algorithm to dressing.
+        	Check the temperature.
+        	If the temperature is greater than 75
+        	Put on tshirt, shorts, and sandals.
+        	If the temperature is greater than 60
+        	Put on tshirt, jeans, socks, and sneakers.
+        	If the temperature is cold
+        	Put on sweatshirt, jeans, wool socks, shoes, and jacket.
