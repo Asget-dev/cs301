@@ -2,7 +2,7 @@
 const prompt = require("prompt-sync")();
 
 // const todayWether = prompt("What is today weather");
-// if(todayWether=='rainy'){
+// if(todayWether==='rainy'){
 //     console.log("Get an umbrella");
 // }
 
