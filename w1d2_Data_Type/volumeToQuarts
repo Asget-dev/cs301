@@ -1,3 +1,0 @@
-let quarts = prompt("Enter a volume in quarts");
-let volumeInput = quarts * 0.946353; 
-console.log(quarts + "quarts is " + volumeInput);
