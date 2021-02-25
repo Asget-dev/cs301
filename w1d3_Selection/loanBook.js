@@ -2,11 +2,11 @@
 const prompt = require("prompt-sync")();
 
 /* input    ====> user enter status and number of books overdue
-   process  ====> when user enter status it catagorith based on the status. once it found the status and agin it catagorithed based on the number of books overdue finaly pass it to putput
-   output   ====> based on the process it print how many loan is allowed during weeks */
+   process  ====> when user enter status it catagorieses based on the status. Once it found the status and again it catagorieses based on the number of books overdue. Finaly, it passes to the output
+   output   ====> based on the process it prints out how many loan is allowed during weeks */
 
 const status = prompt("Enter a status");
-const numberOfBook = prompt("How many books you need");
+const numberOfBook = +prompt("How many books you need");
 
 if(status === "student"){
     if(numberOfBook<=0){
