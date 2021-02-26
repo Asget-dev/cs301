@@ -36,7 +36,7 @@ while(user_input!=="Stop"){
 }
 
 let user_input;
-do{
+do{ 
     console.log("your command was" + user_input);
     user_input = prompt("Please enter a command");
 }while(user_input!=="Stop");

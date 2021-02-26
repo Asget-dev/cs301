@@ -16,3 +16,4 @@ while (counter!==0) {
   counter--;
 }
 console.log("Sorry but you have beenlocked out.");
+ 

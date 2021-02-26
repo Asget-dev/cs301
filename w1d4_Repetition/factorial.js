@@ -8,4 +8,4 @@ for(let i=1; i<=factorial;i++){
     num=num*i;
     console.log(num);
 }
-console.log(num);
+console.log(num); 

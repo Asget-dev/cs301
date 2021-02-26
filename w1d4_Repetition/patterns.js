@@ -21,7 +21,7 @@ for(let i=1; i<=5;i++){
     }
     rows2+="\n";
 }
-console.log(rows2);
+console.log(rows2); 
 
 
 // //the last pattern

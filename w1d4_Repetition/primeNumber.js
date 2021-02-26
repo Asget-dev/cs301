@@ -13,3 +13,4 @@ if (numberInput === i) {
 } else {
   console.log("not prime");
 }
+ 
