@@ -6,7 +6,7 @@ let i;
 for (i = 2; i < numberInput; i++) {
   if (numberInput % i === 0) {
     break;
-  }
+  } 
 }
 if (numberInput === i) {
   console.log("prime");
