@@ -29,18 +29,18 @@ const prompt = require("prompt-sync")();
 // monthly. Prompt the user for the 
 // • initial amount.• annual interest rate • number of years to compound
 
-let user_input = prompt("Please enter a command");
-while(user_input!=="Stop"){
-    console.log("your command was" + user_input);
-    user_input = prompt("Please enter a command");
-}
+// let user_input = prompt("Please enter a command");
+// while(user_input!=="Stop"){
+//     console.log("your command was" + user_input);
+//     user_input = prompt("Please enter a command");
+// }
 
-let user_input;
-do{ 
-    console.log("your command was" + user_input);
-    user_input = prompt("Please enter a command");
-}while(user_input!=="Stop");
-console.log("exiting")
+// let user_input;
+// do{ 
+//     console.log("your command was" + user_input);
+//     user_input = prompt("Please enter a command");
+// }while(user_input!=="Stop");
+// console.log("exiting")
 
 
 // let i =0;
@@ -76,4 +76,32 @@ console.log("Good jon");
 //         if(i%j===0)continue input;
 //     }
 //     console.log(i);
+// }
+
+// for(let i=1; i<10;i++){
+//     if(i%3===0)
+//     break;
+//     console.log(i);
+// }
+
+for(let i=1; i<10;i++){
+        if(i%3===0)
+    break;
+    console.log(i);
+}
+
+// for(let i=1; i<10;i++){
+//     if(i%3===0)
+//     continue;
+//     console.log(i);
+// }
+
+// for(let i=0;i<=10;i++){
+//     console.log(i);
+// }
+
+// let i=1;
+// while(i<10){
+//     console.log(i);
+//     i--;
 // }
