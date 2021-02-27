@@ -1,0 +1,15 @@
+1. What are alternatives to default parameters?
+-If a parameter is not provided, then its value b1 ecomes undefined.Inorder to execute a meaningful message we can create its own function and to make it more formal.
+
+2. What are things you should consider while naming a function?
+- use a verb
+-it should be brief, as accurate as possible and describe.
+
+3. Do functions need to be always commented? Write your understanding based on
+the reading.
+- No, but function is not easier to test or debug. Because of that if we add comments it help us to understand more. 
+4. When to choose Function Declaration versus Function Expression?
+
+5. Function are values in JavaScript. They can be assigned, copied, or declared in any
+place of the code. Is this a true or a false statement? Support your answer with
+examples.
