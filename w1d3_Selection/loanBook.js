@@ -9,15 +9,15 @@ const status = prompt("Enter a status");
 const numberOfBook = +prompt("How many books you need");
 
 if(status === "student"){
-    if(numberOfBook<=0){
+    if(numberOfBook<1){
         console.log("your loan duration in weeks is 6")
-    }else if(numberOfBook<=3){
+    }else if(numberOfBook<3){
         console.log("your loan duration in weeks is 4")
     }else{
         console.log("your loan duration in weeks are 2")
     }
 }else if(status === "Faculty"){
-    if(numberOfBook>=0){
+    if(numberOfBook<0){
         console.log("your loan duration in weeks is 12")
     }else if(numberOfBook>2){
         console.log("your loan duration in weeks is 10")
