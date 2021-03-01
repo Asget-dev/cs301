@@ -12,13 +12,14 @@ function doInputOutput(){
 }
 function houseVolume(a, b, c, d){
     let houseVolume= (livingVolume() + roofVolume());
-    return houseVolume;
+    let x=4*houseVolume;
+    return x;
 }
 
 
 function livingVolume(a,b,c){
     let x = a * b * c;
-   return x;
+    return x;
 }
 
 function roofVolume(a, b, c){
