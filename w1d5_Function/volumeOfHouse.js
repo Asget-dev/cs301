@@ -7,7 +7,7 @@ const prompt = require("prompt-sync")();
 // let sweep = +prompt("Please enter sweep");
 
 function doInputOutput(){
-    let r = houseVolume(4,2,5,7);
+    let r = houseVolume(16,10,10,10);
     console.log(r);
 }
 function houseVolume(a, b, c, d){
