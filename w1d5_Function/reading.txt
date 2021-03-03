@@ -25,4 +25,4 @@ function sayHi() {   //  create
 let func = sayHi;    //  copy
 
 func(); // Hello     // to run the copy
-sayHi(); // Hello    //    
+sayHi(); // Hello       
