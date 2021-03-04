@@ -1,0 +1,12 @@
+1.Brevity is the soul of wit
+-do not sacrifice code clarity for brevity.
+2.One-letter variables
+-give meaningful variable declaration name.
+3.Use abbreviations
+-make it more searcheble words
+4.Soar high. Be abstract.
+-make it more clean and easy to understand.
+5.Reuse names
+-stop confusing your self and other by giving the same name for differnt functions.
+6.Underscores for fun
+-give the name meaningful.

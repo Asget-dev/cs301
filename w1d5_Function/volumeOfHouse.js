@@ -6,6 +6,10 @@ const prompt = require("prompt-sync")();
 // let height = +prompt("Please enter height");
 // let sweep = +prompt("Please enter sweep");
 
+/**
+ * @param 
+ * @returns number;
+ */
 function doInputOutput(){
     let r = houseVolume(16,10,10,10);
     console.log(r);
