@@ -15,5 +15,3 @@ describe("checkPrime", function () {
     assert.strictEqual(fun.checkPrime(77), false);
   });
 });
-
-

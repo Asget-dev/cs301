@@ -4,6 +4,12 @@ const prompt = require("prompt-sync")();
 let number1 = +prompt("Enter the number");
 let number2 = +prompt("Enter the number");
 
+/**
+ * 
+ * @param {number1} number1 input the first number
+ * @param {number2} number2 input the second number
+ * @returns undefined 
+ */
 function GCF(number1, number2) {
   while (number1 != number2) {
     if (number1 > number2) {
