@@ -7,7 +7,7 @@ exports.reverse2String = reverse2String;
 exports.enhancedIncludes = enhancedIncludes;
 exports.isPalindrome = isPalindrome;
 exports.ssReverse = ssReverse;
-//exports.ssReverse =ssReverse;
+exports.ssReverse =ssReverse;
 
 /* 0.  Write a function that will take an index and two arrays 
 and splice the second array into the first at the given position */
