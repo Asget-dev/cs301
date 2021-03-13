@@ -44,8 +44,9 @@ function isPersonEqual(persOne, persTwo) {
  */
 function countProperties(obj) {
     let count = 0;
-    for (const prop in obj) {
+    for (const number in obj) {
         count++;
+        number;
     }
     return count;
 }

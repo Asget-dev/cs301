@@ -75,7 +75,7 @@ describe("suffix", function () {
 // 6.	Write a function named titleCase with one parameter named s. This function 
 // returns a copy of s but with the first letter of each word capitalized.
  describe("titleCase", function () {
-    const jackson = "jackson";
+    //const jackson = "jackson";
 
     it("checks for J", function () {
         assert.strictEqual(str.titleCase("jackson"), "Jackson");
