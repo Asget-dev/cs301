@@ -26,7 +26,7 @@ console.log(car);
  * 
  * @param {Object} persOne is a person object
  * @param {Object} persTwo is a person object
- * @returns {boolean} true if both properties match
+ * @returns {boolean} return boolean
  */
 function isPersonEqual(persOne, persTwo) {
     if (persOne.name !== persTwo.name || persOne.age !== persTwo.age) {
@@ -34,7 +34,7 @@ function isPersonEqual(persOne, persTwo) {
     } else {
         return true;
     }
-}
+} 
 
 //Question number 3
 /**
