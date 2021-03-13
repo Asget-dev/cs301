@@ -1,7 +1,7 @@
 "use strict";
 
 exports.power = power;
-exports.countDigits = countDigits;
+exports.countDigits = countDigits; 
 exports.reverse = reverse;
 /**
  * @param{number} numOne is number
