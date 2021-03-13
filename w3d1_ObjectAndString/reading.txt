@@ -1,0 +1,11 @@
+1. How can you make a copy of an object?
+
+-example how to copy an object
+
+let user = { name: "John" };
+
+let admin = user;
+
+2.2. How do you remove the white spaces that may be at the beginning and ending of a string
+value?
+- trim() method, which removes white space from beginning and end. 
