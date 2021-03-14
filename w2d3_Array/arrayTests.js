@@ -1,5 +1,4 @@
 "use strict";
-/* global require */
 const arrays = require("./l8arrays.js");
 const matrixAddition = require("./l8arrays").matrixAddition;
 
