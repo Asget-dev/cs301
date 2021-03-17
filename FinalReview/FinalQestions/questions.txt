@@ -1,0 +1,16 @@
+
+
+    1. Write a function to find largest prime factor of a number.
+
+    2. Write a function to compute row largest and row average of a two array and return two D array of averages and largest values. Example:  
+    [[2, 3, 4], [5, 6, 7], [9, 8, 4]]=> return [[3, 6, 7], [4, 7, 9]]
+
+    3. The other one is the one you did yesterday night.
+
+    4. Write a function that check whether the sum of even indexed values is balanced with the sum of odd indexed values or not
+
+    ...values of an array
+
+    5. Create an object of customers with properties name Asgedom and property charges having values [23, 45, 10, 32]
+    
+
